@@ -1,0 +1,15 @@
+[
+  {
+    "question": "What is the timeline for periodic KYC updation for high-risk customers?",
+    "relevant_chunks": [
+      "Master_Direction_KYC_p18_0023",
+      "Master_Direction_KYC_p19_0024"
+    ]
+  },
+  {
+    "question": "What are the penalties imposed under Section 47A of the Banking Regulation Act?",
+    "relevant_chunks": [
+      "Penal_Provisions_Circular_p04_0007"
+    ]
+  }
+]
