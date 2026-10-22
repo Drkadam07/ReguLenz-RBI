@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  rbi-rag:
+    build: .
+    container_name: rbi_rag_assistant
+    ports:
+      - "8000:8000"
+      - "8501:8501"
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - LLM_MODEL=qwen2.5:7b-instruct
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./data:/workspace/data
+    restart: unless-stopped
