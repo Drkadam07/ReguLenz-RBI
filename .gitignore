@@ -5,3 +5,5 @@ __pycache__/
 *.pyd
 venv/
 node_modules
+data/processed/index.faiss
+data/processed/metadata.pkl
