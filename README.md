@@ -412,14 +412,12 @@ Reports the status of the background indexing task, if implemented.
 
 Runs or returns retrieval benchmark results, depending on the implementation.
 
-## Target Audience and Use Cases
+---
+### Demo
 
-- **Banking and NBFC compliance officers:** Find and cross-reference relevant Master Directions during compliance reviews.
-- **Fintech product managers and legal teams:** Research regulatory requirements, such as KYC update cycles, digital lending rules, and prepaid payment instrument limits.
-- **Internal and external auditors:** Locate supporting passages for regulatory research and audit preparation.
-- **RAG and information-retrieval engineers:** Explore an evaluation-driven architecture for domain-specific document retrieval.
-
-ReguLenz RBI is a research assistant, not a substitute for legal advice, professional compliance review, or checking the latest authoritative RBI publication.
+![Project Screenshot](./public/img/img1.png)
+![Project Screenshot](./public/img/img2.png)
+---
 
 ## Privacy and Limitations
 
