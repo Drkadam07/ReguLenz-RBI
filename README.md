@@ -1,4 +1,4 @@
-# ReguLenz RBI
+# ReguLenz RBI — Regulatory Compliance RAG & Evaluation Engine
 
 **An Evaluation-First, Grounded Retrieval-Augmented Generation (RAG) System for Regulatory Compliance and RBI Circulars**
 
@@ -220,7 +220,7 @@ ollama pull qwen2.5:3b-instruct
 Replace the placeholder URL with the actual repository URL.
 
 ```bash
-git clone https://github.com/your-username/rbi-rag.git
+git clone https://github.com/Drkadam07/ReguLenz-RBI.git
 cd rbi-rag
 ```
 
